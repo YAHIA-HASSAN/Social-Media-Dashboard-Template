@@ -1,0 +1,49 @@
+.btn:hover {
+  background: #fff !important;
+  color: #000 !important;
+}
+main {
+  background: #f5f7f8 !important;
+}
+.card-head {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-img {
+  border-radius: 50% !important;
+  width: 70% !important;
+  height: 70% !important;
+}
+
+ul {
+  list-style: none !important;
+}
+
+.list-group-item {
+  background: #7d97a5 !important;
+  color: whitesmoke !important;
+  border-color: #7d97a5 !important;
+}
+.list-group-item:hover {
+  background: whitesmoke !important;
+  color: black !important;
+}
+li span{
+  display: inline-block;
+  padding-right: 10px;
+}
+.post-img{
+  border-radius: 50%;
+  height: 15%;
+  width: 15%;
+
+}
+
+
+
+
+footer{
+  position: relative;
+}
